@@ -1,0 +1,65 @@
+IP; Port; Location; MS; Proxy type; Safety
+185.47.184.253; 45463; Hungary Nemesnadudvar; 360 ms; SOCKS4; Alta
+185.189.208.185; 61885; Georgia; 3540 ms; SOCKS4; Alta
+103.61.198.122; 4145; ; 1180 ms; SOCKS4; Alta
+194.44.61.82; 3629; Ukraine Lviv; 1240 ms; SOCKS4; Alta
+98.188.47.150; 4145; United States; 2000 ms; SOCKS4; Alta
+103.251.219.178; 59341; India Ahmedabad; 980 ms; SOCKS4; Alta
+181.60.179.114; 8080; Colombia Barranquilla; 3940 ms; HTTP; no
+170.238.74.61; 5678; Brazil; 1480 ms; SOCKS4; Alta
+119.82.253.24; 61910; Cambodia Phnom Penh; 1580 ms; SOCKS4; Alta
+187.67.128.35; 4145; Brazil Rio de Janeiro; 4300 ms; SOCKS4; Alta
+170.233.115.90; 4153; Brazil Foz do Iguaçu; 1280 ms; SOCKS4; Alta
+45.225.90.118; 4145; Ecuador; 1140 ms; SOCKS4; Alta
+203.202.245.58; 80; Bangladesh; 1200 ms; HTTP; Bajo
+51.159.24.172; 3167; France Paris; 3620 ms; HTTP; Alta
+46.246.14.6; 3128; Sweden; 1760 ms; HTTP, HTTPS; no
+192.158.15.201; 50877; Canada; 840 ms; SOCKS4; Alta
+194.150.255.200; 4145; Russian Federation Krasnodar; 260 ms; SOCKS4; Alta
+103.215.177.231; 80; Indonesia; 3540 ms; HTTP; Media
+192.117.146.110; 80; Israel; 1880 ms; HTTP; Alta
+177.73.107.174; 4145; Brazil Dourados; 2500 ms; SOCKS4; Alta
+103.60.181.212; 31248; Indonesia Tangerang; 1060 ms; SOCKS4; Alta
+103.109.58.110; 8291; Bangladesh Dhaka; 4280 ms; SOCKS4; Alta
+109.86.225.146; 4145; Ukraine Kharkiv; 200 ms; SOCKS4; Alta
+187.237.103.210; 14888; Mexico Playa del Carmen; 1020 ms; SOCKS4; Alta
+124.41.211.196; 52050; Nepal Butwal; 980 ms; SOCKS4; Alta
+185.17.132.15; 3629; Russian Federation Khasavyurt; 3240 ms; SOCKS4; Alta
+176.235.164.177; 40276; Turkey Lüleburgaz; 1560 ms; SOCKS4; Alta
+46.5.252.62; 8080; Germany Pforzheim; 940 ms; HTTP; Alta
+213.234.0.242; 30941; Russian Federation Volgograd; 220 ms; SOCKS4; Alta
+184.185.2.103; 4145; United States; 4240 ms; SOCKS5; Alta
+190.109.160.73; 39734; Colombia Medellín; 2020 ms; SOCKS4; Alta
+109.68.189.22; 54643; Russian Federation; 3100 ms; SOCKS4; Alta
+195.210.172.46; 58350; Russian Federation Moscow; 120 ms; SOCKS4; Alta
+186.177.141.223; 48683; Costa Rica San José; 1120 ms; SOCKS4; Alta
+217.25.198.133; 4145; Ukraine Kyiv; 180 ms; SOCKS4; Alta
+103.15.242.215; 55492; Indonesia Medan; 1160 ms; SOCKS4; Alta
+66.135.227.178; 4145; United States Honolulu; 4660 ms; SOCKS4, SOCKS5; Alta
+136.233.215.137; 80; India Vasco da Gama; 1040 ms; HTTP; Bajo
+151.0.173.145; 59729; ; 1080 ms; SOCKS4; Alta
+2.139.252.47; 42698; Spain Barcelona; 460 ms; SOCKS4; Alta
+200.85.169.18; 50577; Nicaragua Managua; 920 ms; SOCKS4; Alta
+202.138.242.8; 1088; Indonesia Bandung; 920 ms; SOCKS4; Alta
+103.86.161.245; 4153; Indonesia Jakarta; 1160 ms; SOCKS4; Alta
+89.250.149.114; 59599; Russian Federation Tyumen; 180 ms; SOCKS4; Alta
+167.71.5.83; 1080; Netherlands Amsterdam; 360 ms; SOCKS5; Alta
+176.9.75.42; 8080; Germany; 220 ms; HTTP; Alta
+36.91.36.155; 57004; Indonesia; 3860 ms; SOCKS4; Alta
+41.75.123.37; 10801; Malawi; 5100 ms; SOCKS4; Alta
+178.219.175.128; 38809; Ukraine Simferopol; 3180 ms; SOCKS4; Alta
+109.195.194.79; 48447; Russian Federation Ulyanovsk; 140 ms; SOCKS4; Alta
+173.212.202.65; 80; Germany; 3240 ms; HTTP; Alta
+1.10.141.220; 54620; Thailand Bangkok; 3440 ms; HTTP; Alta
+109.196.127.35; 8888; Poland Debica; 1920 ms; HTTP; no
+103.149.213.10; 8080; Indonesia; 4760 ms; HTTP; no
+46.5.252.56; 8080; Germany Pforzheim; 720 ms; HTTP; Alta
+223.165.241.9; 47205; Korea; 1940 ms; SOCKS4; Alta
+103.115.119.250; 30543; Bangladesh Uttara; 1180 ms; SOCKS4; Alta
+189.80.219.59; 4145; Brazil; 2100 ms; SOCKS4; Alta
+154.120.133.190; 30303; Madagascar; 5100 ms; SOCKS4; Alta
+202.29.243.253; 4153; Thailand; 2700 ms; SOCKS4; Alta
+187.33.90.18; 4153; Brazil Recife; 4200 ms; SOCKS4; Alta
+23.128.176.101; 1080; United States Grantville; 1260 ms; SOCKS4; Alta
+104.248.123.76; 18080; United States New York; 1360 ms; HTTP; no
+202.138.234.18; 59235; Indonesia Bandung; 1920 ms; SOCKS4; Alta

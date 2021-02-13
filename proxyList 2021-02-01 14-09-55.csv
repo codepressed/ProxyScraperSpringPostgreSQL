@@ -1,0 +1,65 @@
+IP; Port; Location; MS; Proxy type; Safety
+51.75.147.35; 3128; France; 2020 ms; HTTP; Alta
+46.5.252.56; 1080; Germany Pforzheim; 3640 ms; SOCKS5; Alta
+78.47.16.54; 80; Germany Munich; 1600 ms; HTTP; Alta
+114.6.227.28; 8080; Indonesia; 2980 ms; HTTP; Media
+117.103.5.186; 44825; Indonesia; 5100 ms; HTTP; Alta
+103.250.157.39; 6666; India Godhra; 2840 ms; HTTP; Alta
+198.199.86.11; 8080; United States North Bergen; 1900 ms; HTTP; Alta
+103.60.186.21; 57187; India Noida; 2500 ms; HTTP; Alta
+169.255.75.117; 34403; Congo; 5100 ms; HTTP; Alta
+5.189.133.231; 80; Germany; 240 ms; HTTP; Alta
+191.103.254.145; 47324; Colombia Medellín; 5100 ms; HTTP; Alta
+103.241.227.108; 6666; India Vadodara; 3580 ms; HTTPS; Alta
+202.180.54.97; 8080; Indonesia Jakarta; 4440 ms; HTTP; Media
+169.57.157.148; 80; Brazil São Paulo; 1200 ms; HTTPS; Alta
+188.165.138.11; 54430; Finland; 3340 ms; SOCKS4; Alta
+31.172.105.144; 8080; Germany Hamburg; 4620 ms; HTTP; Bajo
+13.245.35.228; 8080; South Africa Cape Town; 5100 ms; HTTP; Alta
+103.107.94.2; 52827; India New Delhi; 2860 ms; HTTP; Alta
+88.198.50.103; 8080; Germany Nuremberg; 480 ms; HTTP; Alta
+172.67.182.140; 80; United States; 180 ms; HTTP; no
+172.67.181.60; 80; United States; 180 ms; HTTP; no
+172.67.181.92; 80; United States; 200 ms; HTTP; no
+172.67.181.72; 80; United States; 160 ms; HTTP; no
+91.226.97.113; 80; Ukraine; 100 ms; HTTP; no
+172.67.181.68; 80; United States; 160 ms; HTTP; no
+103.152.5.70; 8080; Indonesia; 1940 ms; HTTP, HTTPS; Media
+172.67.158.52; 80; United States; 160 ms; HTTP; no
+182.23.54.211; 54525; Indonesia Jakarta; 5100 ms; HTTP; Alta
+159.8.114.34; 8123; France Clichy; 320 ms; HTTPS; Alta
+169.57.157.146; 8123; Brazil São Paulo; 1320 ms; HTTPS; Alta
+134.3.255.7; 3128; Germany Ludwigsburg; 3040 ms; HTTP; Alta
+192.109.165.108; 80; Germany Frankfurt am Main; 500 ms; HTTP; Alta
+103.152.5.80; 8080; Indonesia; 1180 ms; HTTPS; Alta
+176.9.119.170; 3128; Germany; 220 ms; HTTP; Alta
+115.75.1.184; 8118; Vietnam Ho Chi Minh City; 2080 ms; HTTP; Alta
+45.13.80.144; 8080; Italy San Michele al Tagliamento; 1360 ms; HTTP; no
+95.141.36.112; 8686; Italy Reggio Emilia; 1340 ms; HTTP; no
+15.222.11.48; 80; Canada Montreal; 4140 ms; HTTP; Alta
+18.228.3.181; 80; Brazil São Paulo; 4900 ms; HTTP; Alta
+217.172.122.17; 8080; Iran; 3260 ms; HTTP; Alta
+103.30.93.171; 8080; Indonesia; 5100 ms; HTTP; Alta
+203.202.245.58; 80; Bangladesh; 4060 ms; HTTP; Bajo
+103.76.190.193; 49939; India Ambur; 3380 ms; HTTP; Alta
+94.30.97.245; 80; United Kingdom Tipton; 460 ms; HTTPS; Alta
+94.177.179.243; 8081; Italy Arezzo; 5100 ms; HTTP; Alta
+5.252.161.48; 1080; United Kingdom; 400 ms; SOCKS5; Alta
+46.4.96.137; 1080; Germany; 300 ms; SOCKS5; Alta
+154.16.202.22; 3128; Germany Frankfurt am Main; 300 ms; HTTP; Alta
+3.10.162.22; 80; United Kingdom London; 3300 ms; HTTP; Alta
+172.67.181.10; 80; United States; 160 ms; HTTP; no
+109.193.195.4; 8080; Germany Stuttgart; 2240 ms; HTTP; Alta
+95.208.208.237; 1080; Germany Konstanz; 1620 ms; SOCKS5; Alta
+188.235.8.5; 51729; Russian Federation Voronezh; 5100 ms; HTTP; Alta
+203.176.135.98; 52234; Cambodia Phnom Penh; 4120 ms; HTTP; Alta
+118.174.234.21; 38471; Thailand Chon Buri; 1900 ms; SOCKS4; Alta
+159.8.114.37; 80; France Clichy; 360 ms; HTTPS; Alta
+182.52.238.111; 56382; Thailand; 1860 ms; SOCKS4; Alta
+118.174.46.147; 45764; Thailand; 2120 ms; SOCKS4; Alta
+118.173.197.241; 4145; Thailand; 4100 ms; SOCKS4; Alta
+1.4.157.35; 36202; Thailand Lamphun; 940 ms; SOCKS4; Alta
+110.77.145.159; 4145; Thailand Si Racha; 1280 ms; SOCKS4; Alta
+202.44.9.1; 4153; Thailand; 1260 ms; SOCKS4; Alta
+1.179.186.69; 1080; Thailand; 1260 ms; SOCKS4; Alta
+118.172.181.147; 51411; Thailand Bangkok; 2080 ms; SOCKS4; Alta
