@@ -1,6 +1,8 @@
 package com.rionacko.proxyScraperDB.proxy;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -26,6 +28,12 @@ public class ProxyController {
             @PathVariable("proxyId") Integer proxyId){
     proxyService.deleteProxy(proxyId);
     }
+
+    @DeleteMapping(path = "refreshProxy")
+    public void refreshProxy(){
+        proxyService.deleteAllProxy();
+    }
+
 
     @PutMapping(path = "{proxyId}")
     public void updateProxy(

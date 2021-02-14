@@ -1,6 +1,7 @@
 package com.rionacko.proxyScraperDB.proxy;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
@@ -36,6 +37,9 @@ public class ProxyService {
         proxyRepository.deleteById(proxyId);
     }
 
+    public void deleteAllProxy(){
+        proxyRepository.deleteAll();
+    }
 
     @Transactional
     public void updateProxy(Integer proxyId, String ip, Integer port, String location, String ms, String proxyType, String safety) {

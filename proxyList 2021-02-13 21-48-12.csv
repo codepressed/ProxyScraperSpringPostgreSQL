@@ -1,0 +1,65 @@
+IP; Port; Location; MS; Proxy type; Safety
+209.97.150.167; 1080; United States Clifton; 3400 ms; SOCKS5; Alta
+66.135.227.178; 4145; United States Honolulu; 1560 ms; SOCKS4, SOCKS5; Alta
+50.236.148.254; 31699; United States Denver; 1800 ms; SOCKS4; Alta
+191.102.188.37; 13444; United States Cheyenne; 1540 ms; HTTP, HTTPS; Alta
+36.67.51.186; 31212; Indonesia Jakarta; 1000 ms; SOCKS4; Alta
+69.65.65.178; 35727; United States Pompano Beach; 1080 ms; SOCKS4; Alta
+43.224.10.48; 6667; India Khambhat; 5100 ms; SOCKS4, SOCKS5; Alta
+198.8.94.170; 4145; United States; 2360 ms; SOCKS4, SOCKS5; Alta
+124.109.44.126; 4145; Pakistan; 4040 ms; SOCKS4; Alta
+192.111.135.21; 4145; United States; 1000 ms; SOCKS4; Alta
+134.249.198.205; 7777; Ukraine Sloviansk; 220 ms; SOCKS4; Alta
+161.202.226.194; 8123; Japan Tokyo; 920 ms; HTTP, HTTPS; Alta
+100.24.216.83; 80; United States Ashburn; 520 ms; HTTP, HTTPS; no
+192.111.138.29; 4145; United States; 1680 ms; SOCKS4, SOCKS5; Alta
+104.225.161.3; 8082; United States; 720 ms; HTTPS; Alta
+103.240.168.138; 6667; India Gandhinagar; 2440 ms; SOCKS5; Alta
+198.199.86.11; 1080; United States North Bergen; 3360 ms; SOCKS5; Alta
+85.175.101.19; 4153; Russian Federation Belorechensk; 260 ms; SOCKS4; Alta
+191.96.42.80; 1080; United States Chicago; 1080 ms; SOCKS5; Alta
+192.111.137.35; 4145; United States; 3480 ms; SOCKS4, SOCKS5; Alta
+95.169.213.76; 4145; Bulgaria Shumen; 1640 ms; SOCKS4; Alta
+173.254.222.170; 1080; United States Los Angeles; 1240 ms; SOCKS5; Alta
+192.111.130.2; 4145; United States; 1000 ms; SOCKS4, SOCKS5; Alta
+98.162.25.23; 4145; United States; 980 ms; SOCKS4, SOCKS5; Alta
+102.129.249.120; 1080; United States Los Angeles; 1300 ms; SOCKS5; Alta
+192.111.139.162; 4145; United States; 2840 ms; SOCKS4, SOCKS5; Alta
+82.137.244.59; 4145; Syrian Arab Republic; 3540 ms; SOCKS4; Alta
+173.254.222.170; 1090; United States Los Angeles; 1060 ms; SOCKS4; Alta
+161.35.70.249; 1080; United States; 1040 ms; SOCKS5; Alta
+187.19.127.180; 4153; Brazil Pilar; 1200 ms; SOCKS4; Alta
+110.77.232.29; 4145; Thailand Saraburi; 2120 ms; SOCKS4; Alta
+213.159.251.88; 4153; Ukraine Kyiv; 140 ms; SOCKS4; Alta
+31.41.112.80; 60716; Ukraine Kyiv; 180 ms; SOCKS4; Alta
+195.39.243.197; 3629; Ukraine Kyiv; 100 ms; SOCKS4; Alta
+188.190.101.143; 4145; Slovakia Štúrovo; 3920 ms; SOCKS4; Alta
+103.199.97.9; 39825; India Balasore; 4100 ms; SOCKS4; Alta
+5.102.58.41; 5678; Czech Republic Horovice; 3360 ms; SOCKS4; Alta
+181.112.188.34; 45183; Ecuador; 4140 ms; SOCKS4; Alta
+46.237.255.5; 8080; Germany Ettlingen; 5100 ms; HTTP; Alta
+83.99.168.149; 4153; Latvia Riga; 160 ms; SOCKS4; Alta
+94.76.92.10; 4145; Ukraine Kyiv; 160 ms; SOCKS4; Alta
+91.181.235.31; 4145; Belgium Turnhout; 320 ms; SOCKS4; Alta
+154.61.227.9; 64312; Spain Altea; 400 ms; SOCKS4; Alta
+192.252.215.2; 4145; Canada Toronto; 980 ms; SOCKS4, SOCKS5; Alta
+169.255.190.18; 4145; Congo, The Democratic Republic of the Mbuji-Mayi; 1260 ms; SOCKS4; Alta
+5.182.26.126; 4145; Uzbekistan Tashkent; 300 ms; SOCKS4; Alta
+137.74.230.184; 4153; France Villepinte; 3340 ms; SOCKS4; Alta
+122.152.55.49; 8291; Bangladesh Chittagong; 1160 ms; SOCKS4; Alta
+79.143.225.152; 31270; Russian Federation; 400 ms; SOCKS4; Alta
+46.175.70.69; 59376; Ukraine Kyzyl-Yar; 260 ms; SOCKS4; Alta
+103.232.33.52; 5678; Indonesia Jakarta; 4100 ms; SOCKS4; Alta
+27.147.217.194; 51873; Bangladesh Dhaka; 4160 ms; SOCKS4; Alta
+212.12.20.34; 45470; Russian Federation Tula; 3420 ms; SOCKS4; Alta
+185.198.188.49; 8080; United Kingdom London; 2060 ms; HTTP, HTTPS; Media
+189.201.191.17; 4145; Mexico Cosio; 1980 ms; SOCKS4; Alta
+187.44.167.78; 60786; Brazil Salvador; 5100 ms; HTTP; Alta
+159.8.114.37; 8123; France Clichy; 320 ms; HTTPS; Alta
+186.47.82.6; 46723; Ecuador Nueva Loja; 1220 ms; SOCKS4; Alta
+136.233.215.136; 80; India; 1040 ms; HTTP; Bajo
+118.70.220.116; 4145; Vietnam Hanoi; 1240 ms; SOCKS4; Alta
+128.199.202.122; 1080; Singapore; 1220 ms; SOCKS5; Alta
+85.29.147.222; 4145; Kazakstan; 160 ms; SOCKS4; Alta
+47.56.251.168; 1081; Hong Kong; 5100 ms; SOCKS5; Alta
+152.204.128.46; 33047; Colombia; 2660 ms; HTTP; Alta
